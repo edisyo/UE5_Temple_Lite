@@ -11,9 +11,13 @@ R          - settings
 
 ### How to play?
 This is a puzzle game, where the player needs to rotate reflective objects and make the Laser reach the green "goal" sphere.
-When the Goal Sphere is activated with laser, then it will activate doors to the next room.
+When the Goal Sphere is activated with the laser, then it will activate doors to the next room.
 Complete all rooms to complete the game.
 
+##Optimisations
+The game uses Nanite and Level Streaming (as seen in pictures)
+
+## Full Game Pictures
 Pictures below of the full game:
 ![Temple_Game_1](https://github.com/user-attachments/assets/5ab68744-a516-46d7-84df-d6cff4f4b58c)
 ![Temple_Game_2](https://github.com/user-attachments/assets/29e81db8-56cb-4ad0-81f4-79ac2844c069)
