@@ -14,7 +14,7 @@ This is a puzzle game, where the player needs to rotate reflective objects and m
 When the Goal Sphere is activated with the laser, then it will activate doors to the next room.
 Complete all rooms to complete the game.
 
-##Optimisations
+## Optimisations
 The game uses Nanite and Level Streaming (as seen in pictures)
 
 ## Full Game Pictures
