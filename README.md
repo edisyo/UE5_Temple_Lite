@@ -4,10 +4,10 @@
  Made using UE5.3.2
 
  ## How to play instructions
-WASD       - movement
-Left Mouse - pick up objects
-Q/E        - rotate picked-up objects
-R          - settings
+WASD       - movement <br />
+Left Mouse - pick up objects <br />
+Q/E        - rotate picked-up objects <br />
+R          - settings <br />
 
 ### How to play?
 This is a puzzle game, where the player needs to rotate reflective objects and make the Laser reach the green "goal" sphere.
